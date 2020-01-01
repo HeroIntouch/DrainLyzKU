@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400i,600|Oswald|PT+Sans|Raleway:400,500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Athiti|Open+Sans|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kanit|Roboto&display=swap');
+.basic_home{
+    background-color: #DEFDE0 ;
+    .fontEmail{
+        font-family: 'Raleway', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'PT Sans', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Athiti', sans-serif;
+    }
+    .breadcrumb {background: rgb(240, 255, 241); border: 0px solid rgba(245, 245, 245, 1); border-radius: 4px; display: block;}
+    .breadcrumb li {font-size: 14px;}
+    .breadcrumb a {color: rgba(66, 139, 202, 1);}
+    .breadcrumb a:hover {color: rgba(42, 100, 150, 1);}
+    .breadcrumb>.active {color: rgba(153, 153, 153, 1);}
+    .breadcrumb>li+li:before {color: rgba(204, 204, 204, 1); content: "\002F\00a0";}
+    .fontSci {
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Athiti', sans-serif;
+        padding-left : 20px
+    }
+    .imgLogoKU {
+        img {
+            float: right ;
+            width: 30% ;
+            height: 30% ;
+        }
+    }
+    .positionText1 {
+        padding-left : 80px
+    }
+    .positionText2 {
+        padding-left : 40px
+    }
+    .fontSciCr {
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Kanit', sans-serif;
+        padding-left : 100px
+    }
+    .fontSciAddress {
+        font-family: 'Raleway', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'PT Sans', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Athiti', sans-serif;
+        padding-left : 100px
+    }
+    .imgSciFac {
+        img {
+            width: 50% ;
+            height: 50% ;
+        }
+    }
+    .imgProblem {
+        img {
+            float: left ;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50% ;
+            height: 30% ;   
+    }
+    .imgEvent12{
+        img {
+            float: left ;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 45% ;
+            height: 10% ;   
+        }
+    }
+}
+    
+    .colorLinkKU {
+        color: rgb(29, 173, 118);
+    }
+    h3,h4,h5,h6{
+        font-family: 'Raleway', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'PT Sans', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Athiti', sans-serif;
+    }
+}
+  
