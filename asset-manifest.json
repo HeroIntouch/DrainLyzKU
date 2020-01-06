@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/DrainLyzKU/static/css/main.45fbbd46.chunk.css",
-    "main.js": "/DrainLyzKU/static/js/main.63360b8a.chunk.js",
-    "main.js.map": "/DrainLyzKU/static/js/main.63360b8a.chunk.js.map",
+    "main.css": "/DrainLyzKU/static/css/main.bd38db14.chunk.css",
+    "main.js": "/DrainLyzKU/static/js/main.c5434640.chunk.js",
+    "main.js.map": "/DrainLyzKU/static/js/main.c5434640.chunk.js.map",
     "runtime-main.js": "/DrainLyzKU/static/js/runtime-main.2fbaa22c.js",
     "runtime-main.js.map": "/DrainLyzKU/static/js/runtime-main.2fbaa22c.js.map",
     "static/css/2.17e5ed98.chunk.css": "/DrainLyzKU/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.0cc7c765.chunk.js": "/DrainLyzKU/static/js/2.0cc7c765.chunk.js",
-    "static/js/2.0cc7c765.chunk.js.map": "/DrainLyzKU/static/js/2.0cc7c765.chunk.js.map",
+    "static/js/2.28ed2f2c.chunk.js": "/DrainLyzKU/static/js/2.28ed2f2c.chunk.js",
+    "static/js/2.28ed2f2c.chunk.js.map": "/DrainLyzKU/static/js/2.28ed2f2c.chunk.js.map",
     "index.html": "/DrainLyzKU/index.html",
-    "precache-manifest.3e892260b5eb2d2a4e98d08ef0acd915.js": "/DrainLyzKU/precache-manifest.3e892260b5eb2d2a4e98d08ef0acd915.js",
+    "precache-manifest.0cc2ff178c5566ab7ae9e3e02c008095.js": "/DrainLyzKU/precache-manifest.0cc2ff178c5566ab7ae9e3e02c008095.js",
     "service-worker.js": "/DrainLyzKU/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/DrainLyzKU/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.45fbbd46.chunk.css.map": "/DrainLyzKU/static/css/main.45fbbd46.chunk.css.map",
-    "static/js/2.0cc7c765.chunk.js.LICENSE": "/DrainLyzKU/static/js/2.0cc7c765.chunk.js.LICENSE",
+    "static/css/main.bd38db14.chunk.css.map": "/DrainLyzKU/static/css/main.bd38db14.chunk.css.map",
+    "static/js/2.28ed2f2c.chunk.js.LICENSE": "/DrainLyzKU/static/js/2.28ed2f2c.chunk.js.LICENSE",
     "static/media/Event1-1.jpg": "/DrainLyzKU/static/media/Event1-1.a32945e2.jpg",
     "static/media/Event1-2.jpg": "/DrainLyzKU/static/media/Event1-2.9610ad7d.jpg",
     "static/media/Event2.JPG": "/DrainLyzKU/static/media/Event2.d45d8b4c.JPG",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.2fbaa22c.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.0cc7c765.chunk.js",
-    "static/css/main.45fbbd46.chunk.css",
-    "static/js/main.63360b8a.chunk.js"
+    "static/js/2.28ed2f2c.chunk.js",
+    "static/css/main.bd38db14.chunk.css",
+    "static/js/main.c5434640.chunk.js"
   ]
 }
